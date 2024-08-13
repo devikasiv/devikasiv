@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 Testing things out in this space. Currently working on [COS-IT-FLOWS](https://github.com/COS-IT-FLOWS) with EQUINOCT CoSMoS :)
 
-💬 Reach out at: <devsiv01@gmail.com> !
+💬 Reach out at: <devikasivakumar0312@gmail.com> !
